@@ -3,10 +3,15 @@ This project integrates LangChain, FastAPI, ElasticSearch, and PostgreSQL to ena
 
 ## Key Features
 -- Retrieval-Augmented Generation (RAG) – Enhances chatbot responses by retrieving relevant knowledge from a database.
+
 -- SQL + ElasticSearch Backend – Stores chat history for fast retrieval and analytics.
+
 -- FastAPI Deployment – Scalable, lightweight API for real-time interactions.
+
 -- Continuous Learning – Automates model improvement using Airflow or Prefect.
+
 -- Cloud-Ready – Deployable on AWS Lambda or Docker for scalability.
+
 ## Tech Stack
 LLM & NLP: Hugging Face Transformers, LangChain, OpenAI API
 Database: PostgreSQL, ElasticSearch
