@@ -1,0 +1,28 @@
+# FastAPI and Web Server
+fastapi==0.109.2
+uvicorn==0.29.0
+
+# Elasticsearch
+elasticsearch==8.12.0
+
+# PostgreSQL Database
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.29
+alembic==1.13.1
+
+# LLMs & NLP
+ollama
+# transformers==4.38.2
+# torch==2.2.1
+# langchain==0.1.15
+# sentence-transformers==2.2.2
+# openai==1.12.0
+
+# Async & Data Handling
+pydantic==2.6.4
+numpy==1.26.4
+requests==2.31.0
+
+# Caching & Background Tasks
+redis==5.0.1
+celery==5.3.6
